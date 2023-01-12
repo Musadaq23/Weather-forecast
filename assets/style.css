@@ -1,0 +1,43 @@
+body{
+    background-image: url("../Images/sky.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.remove {
+    display: none;
+}
+
+#weather1 {
+    margin: 0 auto;
+}
+
+#weather2 {
+    margin: 0 auto;
+}
+
+.day1 {
+    background-color: #0eb2be;
+}
+
+.day2 {
+    background-color: #0eb2be;
+}
+
+.day3 {
+    background-color: #0eb2be;
+}
+
+.day4 {
+    background-color: #0eb2be;
+}
+
+.day5 {
+    background-color: #0eb2be;
+}
+
+#navTitle {
+    font-family: 'Crimson Text', serif;
+    position: relative;
+    left: 300px;
+    font-size: 40px;
+}
